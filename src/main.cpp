@@ -2,6 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include<malloc.h>
+
 typedef int ElemType;
 typedef struct person {
 	char num[10];//��� 
